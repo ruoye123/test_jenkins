@@ -1,4 +1,4 @@
-#shuixianhua
+#shuixianhua test
 
 num=int(input("please enter a num:"))
 i=num%10
