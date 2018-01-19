@@ -1,3 +1,7 @@
 This is a new file for test!
 I think this is a good idea!
-This is a new  branch test!
+<<<<<<< HEAD
+This is a new feature branch test!
+=======
+This is a new feature branch test!
+>>>>>>> feature1
