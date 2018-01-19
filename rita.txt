@@ -1,4 +1,8 @@
 This is a new file for test!
 I think this is a good idea!
 add merge
+<<<<<<< Updated upstream
 bug fixed
+=======
+test bug
+>>>>>>> Stashed changes
